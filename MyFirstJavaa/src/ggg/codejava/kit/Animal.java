@@ -13,7 +13,7 @@ public abstract class Animal {
 class Dog extends Animal {
 
     // Implement abstract method
-    void sound() {
+    void  sound() {
         System.out.println("Dog barks");
     }
 }

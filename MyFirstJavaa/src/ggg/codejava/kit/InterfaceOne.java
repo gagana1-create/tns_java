@@ -1,6 +1,6 @@
 package ggg.codejava.kit;
 
-public interface InterfaceOne {
+public  interface InterfaceOne {
 	int a=10;
 	void methodOne();
 	void methodTwo();

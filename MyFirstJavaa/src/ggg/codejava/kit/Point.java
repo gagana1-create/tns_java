@@ -5,7 +5,7 @@ public class Point {
 
 	    // Default constructor
 	    Point() {
-	        x = 0;
+	        x  = 0;
 	    }
 
 	    // Parameterized constructor

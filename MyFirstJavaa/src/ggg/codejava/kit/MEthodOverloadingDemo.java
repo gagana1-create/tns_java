@@ -1,6 +1,6 @@
 package ggg.codejava.kit;
 
-public class MEthodOverloadingDemo {
+public class  MEthodOverloadingDemo {
 
     public static int addition(int a, int b) {
         return a + b;

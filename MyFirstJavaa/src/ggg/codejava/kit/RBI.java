@@ -1,6 +1,6 @@
 package ggg.codejava.kit;
 
-public class RBI {
+public  class RBI {
 
 	
 
